@@ -1,0 +1,4 @@
+AuthGroupFile /dev/null
+AuthType Basic
+AuthUserFile /home/u15643p89792/domains/ivenboxem.nl/.htpasswd/public_html/overhoren/v4/ebooks/.htpasswd
+AuthName "ebooks"
